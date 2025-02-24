@@ -22,8 +22,8 @@ This project implements image steganography to securely hide encrypted messages 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
-   cd <project-folder>
+   git clone <https://github.com/Sakshi-kamble14/Stego/blob/main/stego.py)>
+   
    ```
 2. Install dependencies:
    ```bash
